@@ -1,0 +1,249 @@
+commit 5953dd304fd31a91de414c830dfb0642de6a57f5
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 16:39:56 2019 -0500
+
+    Add missing Version element in project files.
+
+commit 2420c0cdfa2c1f38d6bc11735dfee367be304dde
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 16:35:56 2019 -0500
+
+    Fix AppVeyor version patching.
+
+commit b68e02f06160e7b5c3a9825b191ee7762eb56f44
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 16:23:24 2019 -0500
+
+    Provide information about family share library locking when Steam client
+    initialization fails due to ConnectToGlobalUser.
+
+commit fe4526b346eb9916ff81f162d553792e9899b438
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 14:49:13 2019 -0500
+
+    Bump ISteamApps003 to ISteamApps008.
+
+commit 130d13d256bc43b11a399a6b132cf03c45725480
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 14:42:44 2019 -0500
+
+    Use Akamai URLs for media to avoid having to disable SSL certificate validation.
+
+commit c8e914d8a1c72438200fb79058b4d6a652593fda
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 14:40:21 2019 -0500
+
+    Throw exception for client initialization failure.
+
+commit fd0c328017e98134dd8ce8c75e890f07fcca099f
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 13:54:13 2019 -0500
+
+    Bump ISteamClient009 to ISteamClient018.
+
+commit c8b6dbc3f473d7a7cd119f6870a5cacf6a6e4b83
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 13:48:09 2019 -0500
+
+    Bump license.
+
+commit 34816f490a69858530f09d2a7dd2d85ac87c39c6
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 13:44:08 2019 -0500
+
+    Bump AppVeyor image to VS2019.
+
+commit 0da8cf936d7be0df58e15b093634f12d8362819b
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 13:43:22 2019 -0500
+
+    Migrate to VS2017 project format.
+
+commit eecb8df1d6f9df5d1d82d019baeb34960f37289c
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 24 12:43:46 2019 -0500
+
+    Remove DPI awareness manifest from SAM.API.
+
+commit f186736ba39c70212bb41da2be40e1d03b20ee23
+Author: Pavel Djundik <xPaw@users.noreply.github.com>
+Date:   Fri May 24 21:35:41 2019 +0300
+
+    Release steam pipes only if they exist
+
+commit 9f3ab7c813f5ddd99d2a80fb5dbd9eee09bde210
+Author: Rick Gibbed <rick@gibbed.us>
+Date:   Thu May 23 21:09:26 2019 -0500
+
+    Update and rename appveyor.yml to .appveyor.yml.
+
+commit 5d119be310a7be4d4b50cddd6c82618ecc3c2cf3
+Author: Rick Gibbed <rick@gibbed.us>
+Date:   Thu May 23 21:08:19 2019 -0500
+
+    Add FUNDING.yml.
+
+commit 407d35b8b5ef722a3d23e4541411868719de787d
+Author: gibbed <rick@gibbed.us>
+Date:   Sat Mar 30 13:18:53 2019 -0500
+
+    Fix FxCop complaints.
+
+commit 51ddcc0e37a7e82db5b7caa1dbb0b226481755a4
+Author: gibbed <rick@gibbed.us>
+Date:   Sat Mar 30 12:21:33 2019 -0500
+
+    - Use HTTPS URLs for game logos/achievement icons. Fixes #87.
+    - Fix DoDownloadLogo not catching exceptions for DownloadData.
+
+commit 09587707845b94441ecfa22b5a2c7c16e0151a94
+Author: gibbed <rick@gibbed.us>
+Date:   Sun May 27 07:09:34 2018 -0500
+
+    Implement searching of the game list. Fixes #39.
+
+commit 3dac4e29b5f01d470f59d6d3ebc00a53316b27ff
+Author: Pavel Djundik <xPaw@users.noreply.github.com>
+Date:   Sun May 27 13:49:35 2018 +0300
+
+    Reduce UI freezes when opening the app
+
+commit b4a0cc73170c812c4f2474ec99440bbfa5101499
+Author: gibbed <rick@gibbed.us>
+Date:   Fri May 25 15:19:12 2018 -0500
+
+    Update .gitignore.
+
+commit a538d4fa33af7723a3462d33c6ec1c5ee7c465ef
+Author: Rick Gibbed <rick@gibbed.us>
+Date:   Fri May 25 15:11:37 2018 -0500
+
+    Update appveyor.yml.
+
+commit e7e76513ab608fe0c8580493e89c923ae0b86ca9
+Author: Pavel Djundik <xPaw@users.noreply.github.com>
+Date:   Fri May 25 23:01:37 2018 +0300
+
+    Make _Games a Dictionary for some optimization
+
+commit 4f63d664f8891df3e1cd85c96c4e27e55581d955
+Author: ElPumpo <samo_kol@hotmail.com>
+Date:   Thu Dec 28 12:06:43 2017 +0100
+
+    Updated gitignore after request
+
+commit 23baee2f6f0d324b80d325089c13fe7f7ab00164
+Author: ElPumpo <samo_kol@hotmail.com>
+Date:   Thu Dec 28 11:37:02 2017 +0100
+
+    Added gitattributes and updated gitignore
+
+commit 2ec651108d3be00fdcdca8bd7361b618994b694e
+Author: ElPumpo <samo_kol@hotmail.com>
+Date:   Thu Dec 28 11:35:20 2017 +0100
+
+    DPI awareness enabled
+
+commit dae1f103c01535d3a3b7806c0c9f5861f3a310c4
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Nov 24 09:32:39 2017 -0600
+
+    Changed the label of the store button in SAM.Game to make it more obvious to users.
+
+commit 26f436df63225adf935611ff5104ef16f47443e0
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Nov 24 09:30:20 2017 -0600
+
+    More fixes to the game list in SAM.Picker.
+
+commit 97fee70fdb00b008fe1d8d77aa2896190ccdbc7c
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Nov 24 09:19:41 2017 -0600
+
+    Oops. That's what happens when you merge branches incorrectly. Fixes #6.
+
+commit 94a92ed4b71f98dc67f23a6e25b33d1b1fbb141c
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Nov 24 08:58:54 2017 -0600
+
+    - Bump SAM.Picker to .NET4.
+    - Improvements to downloading of game list and game icons. See #3.
+    - Improvements to performance of the game list. See #3.
+
+commit 66213562f12c3ccc505e33f0d82e9a4ee541a8cb
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Nov 24 08:57:04 2017 -0600
+
+    Bump SAM.Game to .NET4.
+
+commit ec28921bc78bba170dda29a6ec4982e756ca53fd
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Nov 24 08:56:38 2017 -0600
+
+    Fixed API issues.
+
+commit cbef61fc2a6ff46664964704ce0f273e45ef40a7
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Nov 14 14:02:25 2017 -0600
+
+    Properly handle encoding of strings in Steam API. Fixes #5.
+
+commit 8e48814f774f7480f87f17609bb8da605fab0459
+Author: gibbed <rick@gibbed.us>
+Date:   Fri Nov 10 11:14:53 2017 -0600
+
+    Check if either permission bit is set to indicate protected achievement. Fixes #2.
+
+commit 07737aeef745eb2859cd5dcb7d85469cc0bb36a8
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Nov 8 07:17:06 2017 -0600
+
+    Fixed marshaling for bool types that were broken after I changed them from ref to out. Fixes #1.
+
+commit 5766aa824cd9abb228557a203207d134aef879ca
+Author: gibbed <rick@gibbed.us>
+Date:   Wed Nov 8 07:15:26 2017 -0600
+
+    Updated .gitignore.
+
+commit 9456da939e9a6b24a61f5477a8475c56caa47558
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Nov 7 22:16:27 2017 -0600
+
+    Updated README.md.
+
+commit afcf867a5a33bf16a77e5d338a5ba0cfc4facba3
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Nov 7 22:06:05 2017 -0600
+
+    Forgot to bump the version in the actual UI.
+
+commit 7f990c54c5aebbe6b3ffff764a3a4838e183398e
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Nov 7 22:01:21 2017 -0600
+
+    Updated README.md.
+
+commit 9bc269b6fb3e744f0398483916990867ed33c1ac
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Nov 7 22:00:14 2017 -0600
+
+    Added AppVeyor config.
+
+commit 6b3247b0b8e8bb4c8981b12201ada0e2e1cfa3b2
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Nov 7 21:57:36 2017 -0600
+
+    Added README.md.
+
+commit b6b737f84c135f4b1ef59b1a114e959f71c49cbb
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Nov 7 21:49:37 2017 -0600
+
+    Initial code.
+
+commit 1010ccdc9b9910fb8a5b509e84242dbe6936bcc9
+Author: gibbed <rick@gibbed.us>
+Date:   Tue Nov 7 20:29:33 2017 -0600
+
+    Added .gitignore.
