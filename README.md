@@ -21,7 +21,7 @@ Steam Achievement Unlocker is a powerful tool that allows you to unlock and lock
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/CyberWarrior743/Steam-Crack-Mega_Thread.git
+git clone https://github.com//bhavyapandya07/Steam-Crack-Mega_Thread.git
 ```
 
 ## Usage :hammer_and_wrench:
@@ -54,7 +54,7 @@ Steam Idle Card Generator is a handy tool that automates the process of farming 
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/CyberWarrior743/Steam-Crack-Mega_Thread.git
+git clone https://github.com/bhavyapandya07/Steam-Crack-Mega_Thread.git
 ```
 
 ## Usage :hammer_and_wrench:
