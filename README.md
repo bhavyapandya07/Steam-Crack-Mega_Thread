@@ -78,4 +78,4 @@ git clone https://github.com/bhavyapandya07/Steam-Crack-Mega_Thread.git
     ![image](https://github.com/user-attachments/assets/9637cc4a-c8a6-409a-996e-1653beeb5cfe)
 17. You can adjust the bot’s status between "Offline" and "Online" as needed.
 
-Feel free to customize the content, badges, installation instructions, and usage instructions to match your repository.
+*If this helped you, please ⭐ star this repo!*
