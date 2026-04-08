@@ -78,4 +78,14 @@ git clone https://github.com/bhavyapandya07/Steam-Crack-Mega_Thread.git
     ![image](https://github.com/user-attachments/assets/9637cc4a-c8a6-409a-996e-1653beeb5cfe)
 17. You can adjust the bot’s status between "Offline" and "Online" as needed.
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=bhavyapandya07%2FSteam-Crack-Mega_Thread&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bhavyapandya07/Steam-Crack-Mega_Thread&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bhavyapandya07/Steam-Crack-Mega_Thread&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bhavyapandya07/Steam-Crack-Mega_Thread&type=date&legend=top-left" />
+ </picture>
+</a>
+
 *If this helped you, please ⭐ star this repo!*
